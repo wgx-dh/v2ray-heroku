@@ -2,7 +2,7 @@
 
 > 遇到问题，请开 issue/discussions。
 
-> 切换到最新的 VLESS 协议。具体客户端配置请看 config 章节。
+> 切换到最新的VLESS协议。具体客户端配置请看 config 章节。
 
 > v2ray-heroku 是我的主力 backup，我会日常维护它。加入或者修改一些我认为好的配置。但这一般会导致客户端配置需要些许修改。 不过具体配置都会体现在 [详细 VLESS websocket 客户端配置](#vless-websocket-客户端配置)
 
